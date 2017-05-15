@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/options">
+        <menu>
+            <item
+                android:id="@+id/go_home"
+                android:icon="@drawable/go_back"
+                android:title="@string/go_home" />
+            <item
+                android:id="@+id/go_settings"
+                android:icon="@drawable/go_settings"
+                android:title="@string/settings" />
+            <item
+                android:id="@+id/go_me"
+                android:icon="@drawable/go_me"
+                android:title="@string/about" />
+            <item
+                android:id="@+id/go_share"
+                android:icon="@drawable/go_share"
+                android:title="@string/share" />
+        </menu>
+    </item>
+
+</menu>

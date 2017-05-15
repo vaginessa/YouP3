@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">YouP3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="go_home">Go Home</string>
+    <string name="options">Options</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="youp3_youtube_to_mp3">YouP3 - Youtube to MP3</string>
+    <string name="dev_mail">pratimmajumder1@gmail.com</string>
+    <string name="downloads">Downloads</string>
+    <string name="go_back">Go Back</string>
+</resources>
