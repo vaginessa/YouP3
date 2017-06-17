@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ExploiTR/YouP3/master/app/src/main/res/drawable/youp3.png)
+![](https://raw.githubusercontent.com/ExploiTR/YouP3/v3.0/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 # YouP3
 Android app for downloading mp3 directly from youtube using youtubeinmp3 API.
 
